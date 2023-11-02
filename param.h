@@ -1,0 +1,5 @@
+#define WIDTH 97
+#define HEIGHT 36
+#define FRAMESIZE (WIDTH * HEIGHT)
+#define VID_LENGTH_SEC 219
+#define FRAMERATE 30
